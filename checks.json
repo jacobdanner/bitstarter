@@ -1,2 +1,19 @@
 ["h1", 
-  ".navigation"]
+  ".navigation",
+  "h1",
+"div.container div.navigation",
+"div div.navigation div.logo",
+"div div.navigation div.blank",
+"div div.navigation div.about",
+"div.container div.heading",
+"div.container div.subheading",
+"div.container div.pitch",
+"div.container div.pitch div.video",
+"div.container div.pitch divv.span6 div.thermometer",
+"div.container div.pitch divv.span6 div.order",
+"div.container div.pitch divv.span6 div.social",
+"div.container div.section1",
+"div.container div.section2",
+"div.container div.faq",
+"div.container div.footer"
+]
