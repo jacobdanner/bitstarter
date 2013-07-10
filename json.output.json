@@ -1,0 +1,19 @@
+{
+    "h1": true,
+    ".navigation": true,
+    "div.container div.navigation": true,
+    "div div.navigation div.logo": true,
+    "div div.navigation div.blank": true,
+    "div div.navigation div.about": true,
+    "div.container div.heading": true,
+    "div.container div.subheading": true,
+    "div.container div.pitch": true,
+    "div.container div.pitch div.video": true,
+    "div.container div.pitch divv.span6 div.thermometer": false,
+    "div.container div.pitch divv.span6 div.order": false,
+    "div.container div.pitch divv.span6 div.social": false,
+    "div.container div.section1": true,
+    "div.container div.section2": true,
+    "div.container div.faq": true,
+    "div.container div.footer": true
+}
