@@ -2,7 +2,7 @@
   "name": "bitstarter-jacobd",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.x"
+    "express": "2.5.x",
     "twitter-bootstrap-node": "0.1.2"
   },
   "engines": {
